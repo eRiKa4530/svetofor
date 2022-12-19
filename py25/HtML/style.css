@@ -1,0 +1,38 @@
+/* .div{
+    color: blue;
+} */
+/* *{
+    color: black;
+} */
+
+/* h2{
+    color: chartreuse;
+}
+.my_h2{
+    color: brown;
+    font-size: 10px;
+}
+#first{
+    color: aqua;
+}
+#second{
+    color: cornflowerblue;
+}
+a{text-decoration: none;} */
+
+
+.div1{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+}
+.div2{
+    background-color: rgb(255, 0, 106);
+    width: 300px;
+    height: 400px;
+}
+.div3{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+}
